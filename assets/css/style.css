@@ -675,6 +675,10 @@ nav ul li a {
   padding-bottom: 10px;
 }
 
+.contact-details li #mail-to {
+  color: rgb(64, 107, 250);
+}
+
 #contact input, #contact textarea {
   width: 100%;
   margin-bottom: 5px;
